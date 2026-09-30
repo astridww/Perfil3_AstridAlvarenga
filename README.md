@@ -1,12 +1,12 @@
 # Perfil3_AstridAlvarenga
 Aplicación móvil hecha con React Native y Expo para el Módulo 5: Desarrollo de componentes para dispositivos móviles (Instituto Técnico Ricaldone).
 ## Datos del estudiante
-- **Nombre:** Astrid Alvarenga
-- **Carnet:** TU_CARNET
-- **Sección y grupo:** TU_SECCIÓN Y GRUPO
+- **Nombre:** Astrid Judith Alvarenga Cañas
+- **Carnet:** 20240476
+- **Sección y grupo:** 1A
 ## Enlaces
-- **Video demostrativo:** PEGA_AQUÍ_EL_ENLACE_PÚBLICO
-- **Descargar APK:** PEGA_AQUÍ_EL_ENLACE_DEL_APK
+- **Video demostrativo:** https://drive.google.com/drive/folders/16a-2DQ97S7JQ1uGql7WFeUK_-htmR7Aa?usp=sharing
+- **Descargar APK:** https://expo.dev/accounts/astridww/projects/Perfil3_AstridAlvarenga/builds/bf8832c0-d113-4566-bf54-5e948eeda2d5
 ## Descripción
 La app tiene dos pantallas:
 1. **Perfil:** tarjeta con los datos del estudiante y un botón para ir a la segunda pantalla.
